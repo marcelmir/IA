@@ -2,6 +2,7 @@
 # Classificador de Elegibilidade de Crédito
 
 Este repositório contém um modelo treinado para classificar solicitações de crédito com base em variáveis financeiras e demográficas dos solicitantes.
+Em 28/05/2025 foram incluídos os gráficos de Decision Tree e de importância das variáveis para a Elegibilidade de Crédito.
 
 ---
 ## ✅ Modelo Escolhido
